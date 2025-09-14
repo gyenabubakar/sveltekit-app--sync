@@ -1,1 +1,4 @@
-Hello world.
+Hello world from GitHub!
+This message is coming from the GitHub repository.
+Conflict resolution testing in progress.
+GitHub is awesome!

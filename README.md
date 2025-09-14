@@ -1,6 +1,12 @@
 # sveltekit-app
 
+**GitHub Edition** - This is the GitHub synchronized version of our SvelteKit app. GitHub Actions power our deployment!
 
+⚡ GitHub Features:
+- GitHub Actions workflows
+- Advanced security features
+- GitHub Pages deployment
+- Pull request automation
 
 ## Getting started
 

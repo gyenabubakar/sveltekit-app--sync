@@ -1,0 +1,18 @@
+{
+  "name": "GitHub App Configuration",
+  "database": {
+    "host": "github.example.com",
+    "port": 5432,
+    "name": "github_app"
+  },
+  "github": {
+    "api_token": "github_secret_token_67890",
+    "webhook_secret": "github_webhook_secret",
+    "environment": "github_production"
+  },
+  "features": {
+    "actions": true,
+    "security_alerts": true,
+    "pages": true
+  }
+}
